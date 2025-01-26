@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingaorlowicz
-- 👀 I’m interested in biomedical engineering
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in biomedical engineering and data analysis
+- 🌱 I’m currently learning c++ and python
 - 😄 Pronouns: she/her
 
 
